@@ -1,5 +1,5 @@
-<h1Hospital Management System 🏨⚕️ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ</h1>
-<br>
-Technologies Used: Core Java
-Database Used: MySQL
-IDE Used: IntelliJ IDEA
+<h1>Hospital Management System 🏨⚕️ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ</h1>
+<hr>
+Technologies Used: Core Java <br>
+Database Used: MySQL <br>
+IDE Used: IntelliJ IDEA <br>
